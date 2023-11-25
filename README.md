@@ -8,7 +8,7 @@ The game ends when the enemy's HP reaches 0, resulting in a player victory. Conv
 
 The game features a graphical user interface (GUI) and allows for player input.
 
-<br>
+<hr>
 
 Numeric WarfareはPygameで作られた簡単な計算ゲームです。
 
