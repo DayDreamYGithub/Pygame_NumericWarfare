@@ -1,4 +1,4 @@
-![image](https://github.com/DayDreamYGithub/Pygame_NumericWarfare/assets/53157668/a9f82e41-6f4d-4ffc-bd5f-01c3e86308a0)# Pygame_NumericWarfare
+
 
 Numeric Warfare is a straightforward calculation game created with Pygame.
 
