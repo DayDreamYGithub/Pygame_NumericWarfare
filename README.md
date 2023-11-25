@@ -1,4 +1,4 @@
-# Pygame_NumericWarfare
+![image](https://github.com/DayDreamYGithub/Pygame_NumericWarfare/assets/53157668/a9f82e41-6f4d-4ffc-bd5f-01c3e86308a0)# Pygame_NumericWarfare
 
 Numeric Warfare is a straightforward calculation game created with Pygame.
 
@@ -17,3 +17,11 @@ Numeric WarfareはPygameで作られた簡単な計算ゲームです。
 敵のHPが0になるとプレイヤーの勝利です。逆に、プレイヤーのHPが0になるとプレイヤーの敗北です。
 
 ゲームにはGUIがあり、プレイヤーの入力を受け付けることができます。
+
+<hr>
+
+<img src="https://github.com/DayDreamYGithub/Pygame_NumericWarfare/blob/main/Github_img/1.png?raw=true" alt="Game Image">
+
+<img src="https://github.com/DayDreamYGithub/Pygame_NumericWarfare/blob/main/Github_img/2.png?raw=true" alt="Game Image">
+
+<img src="https://github.com/DayDreamYGithub/Pygame_NumericWarfare/blob/main/Github_img/3.png?raw=true" alt="Game Image">
